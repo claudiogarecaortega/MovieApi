@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5b60d657-1f94-45a9-8045-325c752f493e": {
+      "ProjectGuid": "5b60d657-1f94-45a9-8045-325c752f493e",
+      "DisplayName": "MovieApi",
+      "ColorIndex": 0
+    },
+    "d219256a-cfdd-4e93-ba09-a4de5f14a930": {
+      "ProjectGuid": "d219256a-cfdd-4e93-ba09-a4de5f14a930",
+      "DisplayName": "Domain",
+      "ColorIndex": 1
+    },
+    "eb0ac77d-91df-4f59-9cbb-38bd85957d8f": {
+      "ProjectGuid": "eb0ac77d-91df-4f59-9cbb-38bd85957d8f",
+      "DisplayName": "Services",
+      "ColorIndex": 2
+    },
+    "0ab6cb6a-589c-4ea5-889f-56f05a9c7df0": {
+      "ProjectGuid": "0ab6cb6a-589c-4ea5-889f-56f05a9c7df0",
+      "DisplayName": "Repository",
+      "ColorIndex": 3
+    },
+    "a9f19e0b-98c2-49fb-ac19-74ddd968157f": {
+      "ProjectGuid": "a9f19e0b-98c2-49fb-ac19-74ddd968157f",
+      "DisplayName": "MovieApiTest",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
